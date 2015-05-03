@@ -40,3 +40,8 @@ we do?
 The result is a combination of both of the files changes while maintaining functionality under most 
 conditions. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git would get things wrong if it merged conflicts automatically, but this does take extra work and 
+sometimes extra communication to bring to a conclusion.
+
