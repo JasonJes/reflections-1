@@ -34,3 +34,9 @@ How do the diagrams help you visualize the branch structure?
 They let you conceptualize the connections between every commit in a 
 project with the others.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way 
+we do?
+
+The result is a combination of both of the files changes while maintaining functionality under most 
+conditions. 
+
