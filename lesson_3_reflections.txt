@@ -16,3 +16,7 @@ an existing repository on GitHub for a group project, or I wanted to have an exi
 myself without having my project on GitHub. I would branch anytime I needed multiple versions of 
 the same project, or wanted to add a new feature to a group project that might take a while.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to see where you left off and decide on your own if you want to add in changes that 
+others or yourself on a different system have made since this systems last pull.
