@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you create a repository it is empty. The first step towards giving 
+you use of git's features is making your first commit.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+It allows you to add a file as you go to the following commit. This 
+allows you to add several files in at different points in time. This 
+also allows you to test new functionality out on a specific file 
+without worrying that it will mess up your current commit.
+

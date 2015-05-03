@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the
+bug that was introduced?
+
+I was able to see the differences between the two files quickly without
+having to look at identical code between files.
+
+How could having easy access to the entire history of a file make you a
+more efficient programmer in the long term?
+
+It is easy to find what changed that created a bug in code along with
+increasing your ability to cross reference new and old mechanics in
+code.
+
+What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically 
+saved, like Google docs does?
+
+If you manually save, as long as you understand when a good time is to 
+commit a file then you can manage appropriately. The issue is as a
+programmer it is easy to get immersed in a program until you are lost 
+in code that is full of bugs. Having an automatic save is useful to 
+prevent losing a valuable version, but for code, it is likely to give 
+many versions that won't compile or are not at a good stopping point.
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat 
+each file separately?
+
+Git was created for programmers who constantly change entire 
+repositories when making even small changes to their program. Google 
+Docs is generally used for indvidual documents which have no bearing on 
+each other.
+
+How can you use the commands git log and git diff to view the history 
+of files?
+
+These commands allow you to view all previous commits and compare any 
+two commits changes with each other.
+
+How might using version control make you more confident to make changes 
+that could break something?
+
+You could make changes to a specific branch, or not worry about 
+breaking something as much, because finding the error is quite simple!
+
+Now that you have your workspace set up, what do you want to try using 
+Git for?
+
+I will use git for any group project, and possibly even some solo 
+projects at this point with how easy it makes the life of a programmer.
