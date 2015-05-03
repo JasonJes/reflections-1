@@ -8,3 +8,11 @@ date with your remote repository?
 So none of your work is tempered with expcept under the circumstance that you are ready for it to 
 be.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of 
+another?
+
+I would use a fork to make a copy of my friends repository on GitHub. I would clone anytime I want 
+an existing repository on GitHub for a group project, or I wanted to have an existing project for 
+myself without having my project on GitHub. I would branch anytime I needed multiple versions of 
+the same project, or wanted to add a new feature to a group project that might take a while.
+
