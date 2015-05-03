@@ -11,3 +11,12 @@ allows you to add several files in at different points in time. This
 also allows you to test new functionality out on a specific file 
 without worrying that it will mess up your current commit.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+By using git diff --staged you can directly compare the staging area 
+with the repository to see what you have added to be commited. If you 
+need to add more at this point, you can use get diff to compare the 
+working directory with the staging area and see what files you would 
+like to add in order to have a single logical change. 
+
