@@ -20,3 +20,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It allows you to see where you left off and decide on your own if you want to add in changes that 
 others or yourself on a different system have made since this systems last pull.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be 
+harder?
+
+I would send code snippets I changed to the person in charge of merging code together. With github 
+it takes care of who is in charge of each individual activity, and will send the requests to the 
+person who the pertain to. It would me much harder to rewrite all the code than to allow github to 
+combine it for you.
