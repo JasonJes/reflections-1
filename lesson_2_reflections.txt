@@ -29,3 +29,8 @@ or anytime you want to work on a specific goal that might take a while
 to get to work while the project will continue to have commits added to 
 it.
 
+How do the diagrams help you visualize the branch structure?
+
+They let you conceptualize the connections between every commit in a 
+project with the others.
+
