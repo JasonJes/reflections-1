@@ -28,3 +28,10 @@ I would send code snippets I changed to the person in charge of merging code tog
 it takes care of who is in charge of each individual activity, and will send the requests to the 
 person who the pertain to. It would me much harder to rewrite all the code than to allow github to 
 combine it for you.
+
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefits does each approach have?
+
+When you are working on a specific goal that is not currently needed in the projects main design, 
+it is much better to use a branch and refine your goal until it works efficiently in a seperate 
+branch.
