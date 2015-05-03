@@ -44,4 +44,3 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 Git would get things wrong if it merged conflicts automatically, but this does take extra work and 
 sometimes extra communication to bring to a conclusion.
-
